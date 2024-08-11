@@ -1,0 +1,13 @@
+[package]
+name = "i_love_gd_cologne"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rodio = "0.19.0"
+winapi = { version = "0.3.9", features = ["winuser"] }
+
+[[bin]]
+src = "src/main.rs"
+name = "i_love_gd_cologne"
+path = "src/main.rs"
