@@ -35,7 +35,7 @@ const KEYSTRINGS: [&str; 12] = [
     "Shadows from the grave"
 ];
 
-// o noes i doxxed myself
+// for whatever reason i couldnt get other fiel paths to work and i dont know how to get them to work so im gonna leave it as this and figure it out later
 const SOUNDFILES: [&str; 12] = [
     "C:/Users/anton/RustroverProjects/i_love_gd_cologne/sfx/air_detected.wav",
     "C:/Users/anton/RustroverProjects/i_love_gd_cologne/sfx/water_on_the_hill.wav",
